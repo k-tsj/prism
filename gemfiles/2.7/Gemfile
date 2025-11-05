@@ -13,3 +13,4 @@ gem "rake"
 gem "rbs"
 gem "ruby_parser"
 gem "test-unit"
+gem "power_assert", github: 'ruby/power_assert', branch: 'wip'
